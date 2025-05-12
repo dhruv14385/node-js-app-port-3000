@@ -1,4 +1,4 @@
-# Deploying the project on AWS
+# Deploying the project on AWS EC2  
 
 1. Clone this project in the remote VM
 ```
